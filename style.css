@@ -1,0 +1,16 @@
+li:nth-child(2n) {
+    color: rgb(255, 0, 0);
+}
+
+li:nth-child(3n) {
+    color: gray;
+}
+
+li:nth-child(5n) {
+    color: gold;
+}
+
+li {
+    font-size: 20px;
+    text-align: center;
+}
